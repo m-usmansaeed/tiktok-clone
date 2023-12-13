@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "75F5AE5E-A634-4185-AF15-52F01755414C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "514F279A-8836-4342-BC01-1A7F61B6246B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TikTokClone/Core/Feed/View/FeedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "playVideoOnChangeOfScrollPosition(offset:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "514F279A-8836-4342-BC01-1A7F61B6246B - eb4b3448dcdc1032"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TikTokClone.FeedView.playVideoOnChangeOfScrollPosition(offset: CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "TikTokClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/conovomac075/Projects/iOS%20Samples/TikTokClone/TikTokClone/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "514F279A-8836-4342-BC01-1A7F61B6246B - eb4b3448dcdc1032"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TikTokClone.FeedView.playVideoOnChangeOfScrollPosition(offset: CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "TikTokClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/conovomac075/Projects/iOS%20Samples/TikTokClone/TikTokClone/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "780">
+               </Location>
+               <Location
+                  uuid = "514F279A-8836-4342-BC01-1A7F61B6246B - eb4b3448dcdc1032"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TikTokClone.FeedView.playVideoOnChangeOfScrollPosition(offset: CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "TikTokClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/conovomac075/Projects/iOS%20Samples/TikTokClone/TikTokClone/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "836">
+               </Location>
+               <Location
+                  uuid = "514F279A-8836-4342-BC01-1A7F61B6246B - eb4b3448dcdc1032"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TikTokClone.FeedView.playVideoOnChangeOfScrollPosition(offset: CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "TikTokClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/conovomac075/Projects/iOS%20Samples/TikTokClone/TikTokClone/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "896">
+               </Location>
+               <Location
+                  uuid = "514F279A-8836-4342-BC01-1A7F61B6246B - eb4b3448dcdc1032"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TikTokClone.FeedView.playVideoOnChangeOfScrollPosition(offset: CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "TikTokClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/conovomac075/Projects/iOS%20Samples/TikTokClone/TikTokClone/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "872">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
